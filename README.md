@@ -83,6 +83,14 @@ Concepts
 
 ---
 
+Exceptions  -->  Understanding Exceptions  -->  Recognizing Exception Classes  -->  Handling Exceptions  -->  Automating Resource Management
+
+Formatting Values  -->  Formatting Numbers  -->  Formatting Dates and Times  -->  Customizing the Date/Time Format
+
+Supporting Internationalization and Localization  -->  Loading Properties with Resource Bundles
+
+---
+
 ## ✍️ Author
 
 **Kleber Vales**  
