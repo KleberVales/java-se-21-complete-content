@@ -46,7 +46,7 @@ Building Blocks  -->  Environment  --> Class Structure  -->  main() Method  --> 
 
 ---
 
-Operators  -->  Java Operators  -->  Unary Operators  -->  Binary Operators -->  Ternary Operator
+Operators -->  Unary Operators  -->  Binary Operators -->  Ternary Operator  -->  Arithmetic Operators  -->  Relational Operators  -->  Logical Operators  -->  Assigning Values  -->  Bitwise Operators  -->  Operator Precedence
 
 ---
 
