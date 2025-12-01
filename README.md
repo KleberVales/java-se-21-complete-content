@@ -50,6 +50,8 @@ Operators -->  Unary Operators  -->  Binary Operators -->  Ternary Operator  -->
 
 ---
 
+Making Decisions  -->  if Statement  -->  Pattern matching with if  -->  switch Statements  -->  Pattern Matching with switch  -->  while Loops  -->  do/while Statement  -->  for Loops  -->  for-each Loop  -->  Controlling Flow 
+
 ## ✍️ Author
 
 **Kleber Vales**  
