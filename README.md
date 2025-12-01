@@ -74,6 +74,10 @@ Lambdas  -->  Functional Interfaces  -->  Method References  -->  Built-in  --> 
 
 ---
 
+Collections  -->  Sorting Data  -->  Sequenced Collections  -->  Generics
+
+---
+
 ## ✍️ Author
 
 **Kleber Vales**  
