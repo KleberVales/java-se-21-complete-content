@@ -95,6 +95,10 @@ Modules  -->  Introducing Modules  -->  Creating and Running a Modular Program  
 
 ---
 
+Concurrency  -->  Introducing Threads  -->  Concurrency API  -->  Writing Thread-Safe Code  -->  Concurrent Collections  -->  Identifying Threading Problems  -->  Parallel Streams
+
+---
+
 ## ✍️ Author
 
 **Kleber Vales**  
