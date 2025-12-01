@@ -42,6 +42,8 @@
 
 ---
 
+Building Blocks  -->  Environment  --> Class Structure  -->  main() Method  --> Package and Imports  -->  Creating Objects  -->  Data Types  -->   Variables  -->  Variable Scope  -->  Destroying Objects
+
 ## ✍️ Author
 
 **Kleber Vales**  
