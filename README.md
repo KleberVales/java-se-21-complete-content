@@ -18,42 +18,29 @@
 | 05 | [Class Modeling]() |
 | 05 | [Beyond Classes]() |
 | 06 | [Lambda and Functional Interfaces]() |
-| 07 | [Working with Self‐Managed Nodes]() |
-| 08 | [Managing deployments in Kubernetes]() |
-| 09 | [Configuring Storage for Kubernetes Clusters in OKE]() |
-| 10 | [Administering and Managing OKE Clusters]() |
-| 11 | [Security in Container Engine for Kubernetes]() |
 
 ---
 
-## Projects with OCI DevOps
+## Java Core APIs
 
 | Nº | Pages |
 |----|--------|
-| 12 | [OCI DevOps Project: Basic Concepts]() |
-| 13 | [OCI DevOps Project: Continuous Integration and Continuous Delivery (CI-CD)]() |
-| 14 | [OCI DevOps Project: Deployment Strategies]() |
-| 15 | [OCI DevOps Project: Deployments with Helm Charts]() |
+| 12 | [Basic APIs]() |
+| 13 | [Collections and Generics]() |
+| 14 | [Streams]() |
+| 15 | [Exceptions and Localization]() |
 
 --- 
 
-## Infrastructure as Code (IaC)
+## Advanced Topics
 
 | Nº | Pages |
 |----|--------|
-| 16 | [Terraform: Infrastructure as Code]() |
-| 17 | [OCI Resource Manager]() |
+| 16 | [Modules]() |
+| 17 | [Concurrency]() |
+| 17 | [Input and Output]() |
 
 ---
-
-## Security and Observability
-
-| Nº | Pages |
-|----|--------|
-| 18 | [DevSecOps]() |
-| 19 | [Observability Services]() |
-
---- 
 
 ## ✍️ Author
 
