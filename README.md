@@ -91,6 +91,10 @@ Supporting Internationalization and Localization  -->  Loading Properties with R
 
 ---
 
+Modules  -->  Introducing Modules  -->  Creating and Running a Modular Program  -->  Multiple Modules  -->  Diving into the Module Declaration  -->  Creating a Service  -->  Discovering Modules  -->  Comparing Types of Modules  -->  Migrating an Application
+
+---
+
 ## ✍️ Author
 
 **Kleber Vales**  
