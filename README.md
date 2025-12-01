@@ -62,6 +62,10 @@ Methods  -->  Designing Methods  -->  Declaring Local and Instance Variables  --
 
 ---
 
+Class Design  -->  Understanding Inheritance  -->  Inheriting Members  -->  Abstract Classes  -->  Immutable Objects
+
+---
+
 ## ✍️ Author
 
 **Kleber Vales**  
