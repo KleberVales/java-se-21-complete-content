@@ -1,49 +1,56 @@
-# Study for Java OCP 21 Certification 🧠☕️
+# oci-devops-guide
 
-Este repositório contém material de estudo para a certificação **Oracle Certified Professional: Java SE 21**.
+## Fundamentals
 
-## 📚 Content
+| Nº | Pages |
+|----|--------|
+| 01 | [Introduction to DevOps](https://github.com/KleberVales/oci-devops-guide/wiki/01-DevOps-introduction) |
+| 02 | [Microservices and Containerization](https://github.com/KleberVales/oci-devops-guide/wiki/02-Microservices-and-Containerization) |
+| 03 | [Kubernetes Fundamentals](https://github.com/KleberVales/oci-devops-guide/wiki/03-Kubernetes-Basics) |
 
-- Summaries
-- Code examples
-- Detailed explanations of the main topics of the exam
+---
 
-## 📂 Available Topics
+## Oracle Kubernetes Engine (OKE)
 
-1. [Building Blocks](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/01.-Building-Blocks)
-2. [Operators](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/02.-Operators)
-3. [Making Decisions](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/03.-Making-Decisions)
-4. [Core APIs](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/APIs-b%C3%A1sicas)
-5. [Methods](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/M%C3%A9todos)
-6. [Class Design](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Modelagem-de-Classe)
-7. [Beyond Classes](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Al%C3%A9m-das-Classes)
-8. [Lambdas and Functional Interfaces](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Lambdas-e-Interfaces-Funcionais)
-9. [Collections and Generics](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Cole%C3%A7%C3%B5es-e-Gen%C3%A9ricos)
-10. [Streams](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Streams)
-11. [Exceptions and Localization](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Exce%C3%A7%C3%B5es-e-Localiza%C3%A7%C3%A3o)
-12. [Modules](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/M%C3%B3dulos)
-13. [Concurrency](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Concorr%C3%AAncia)
-14. [I/O](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/Entrada-e-Sa%C3%ADda-de-Dados)
+| Nº | Pages |
+|----|--------|
+| 04 | [OKE and work with managing nodes](https://github.com/KleberVales/oci-devops-guide/wiki/04-OKE-and-working-with-managed-nodes) |
+| 05 | [Setting up OKE Cluster access](https://github.com/KleberVales/oci-devops-guide/wiki/05-Setting-up-OKE-Cluster-access) |
+| 06 | [Working with Virtual Nodes in OKE](https://github.com/KleberVales/oci-devops-guide/wiki/06-Working-with-Virtual-Nodes-in-OKE) |
+| 07 | [Working with Self‐Managed Nodes](https://github.com/KleberVales/oci-devops-guide/wiki/07-Working-with-Self%E2%80%90Managed-Nodes) |
+| 08 | [Managing deployments in Kubernetes](https://github.com/KleberVales/oci-devops-guide/wiki/08-Managing-deployments-in-Kubernetes) |
+| 09 | [Configuring Storage for Kubernetes Clusters in OKE](https://github.com/KleberVales/oci-devops-guide/wiki/09-Configuring-Storage-for-Kubernetes-Clusters-in-OKE) |
+| 10 | [Administering and Managing OKE Clusters](https://github.com/KleberVales/oci-devops-guide/wiki/10-Administering-and-Managing-OKE-Clusters) |
+| 11 | [Security in Container Engine for Kubernetes](https://github.com/KleberVales/oci-devops-guide/wiki/11-Security-in-Container-Engine-for-Kubernetes) |
 
-## 🗂 Access the Wiki
+---
 
-All content is organized by topic in the repository's Wiki.
+## Projects with OCI DevOps
 
-👉 **[Click here to access the Wiki.](../../wiki)** 👈
+| Nº | Pages |
+|----|--------|
+| 12 | [OCI DevOps Project: Basic Concepts](https://github.com/KleberVales/oci-devops-guide/wiki/12-OCI-DevOps-Project:-Basic-Concepts) |
+| 13 | [OCI DevOps Project: Continuous Integration and Continuous Delivery (CI-CD)](https://github.com/KleberVales/oci-devops-guide/wiki/13-OCI-DevOps-Project:-Continuous-Integration-and-Continuous-Delivery-(CI%E2%80%90CD)) |
+| 14 | [OCI DevOps Project: Deployment Strategies](https://github.com/KleberVales/oci-devops-guide/wiki/14-OCI-DevOps-Project:-Deployment-Strategies) |
+| 15 | [OCI DevOps Project: Deployments with Helm Charts](https://github.com/KleberVales/oci-devops-guide/wiki/15-OCI-DevOps-Project:-Deployments-with-Helm-Charts) |
 
-## 🛠 Technologies and resources used
+--- 
 
-- Java 21
-- IntelliJ IDEA
-- Git & GitHub
-- Markdown annotations
-- preparatory exercises
-- Code analysis
-- Guide to Java 21 certification
+## Infrastructure as Code (IaC)
 
+| Nº | Pages |
+|----|--------|
+| 16 | [Terraform: Infrastructure as Code](https://github.com/KleberVales/oci-devops-guide/wiki/16-Terraform:-Infrastructure-as-Code) |
+| 17 | [OCI Resource Manager](https://github.com/KleberVales/oci-devops-guide/wiki/17-OCI-Resource-Manager) |
 
+---
 
-<br><br>
+## Security and Observability
+
+| Nº | Pages |
+|----|--------|
+| 18 | [DevSecOps](https://github.com/KleberVales/oci-devops-guide/wiki/18-DevSecOps) |
+| 19 | [Observability Services](https://github.com/KleberVales/oci-devops-guide/wiki/19-Observability-Services) |
 
 --- 
 
