@@ -54,6 +54,10 @@ Making Decisions  -->  if Statement  -->  Pattern matching with if  -->  switch 
 
 ---
 
+Core APIs  -->  Strings  -->  StringBuilder -->  Equality  -->  Arrays  -->  Math APIs  -->  Dates and Times
+
+---
+
 ## ✍️ Author
 
 **Kleber Vales**  
