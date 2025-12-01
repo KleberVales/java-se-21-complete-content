@@ -70,6 +70,10 @@ Beyond Classes  -->  Interfaces  -->  Enums  -->  Sealing Classes  -->  Encapsul
 
 ---
 
+Lambdas  -->  Functional Interfaces  -->  Method References  -->  Built-in  -->  Variables in Lambdas
+
+---
+
 ## ✍️ Author
 
 **Kleber Vales**  
