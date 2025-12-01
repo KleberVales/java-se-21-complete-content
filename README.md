@@ -4,7 +4,7 @@
 
 | Nº | Pages |
 |----|--------|
-| 01 | [Building Blocks]() |
+| 01 | [Building Blocks](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/01.-Building-Blocks) |
 | 02 | [Operators]() |
 | 03 | [Decision Structures]() |
 | 04 | [Methods]() |
