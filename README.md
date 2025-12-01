@@ -78,6 +78,11 @@ Collections  -->  Sorting Data  -->  Sequenced Collections  -->  Generics
 
 ---
 
+Streams  -->  Returning an Optional  -->  Primitive Streams  -->  Advanced Stream Pipeline
+Concepts
+
+---
+
 ## ✍️ Author
 
 **Kleber Vales**  
