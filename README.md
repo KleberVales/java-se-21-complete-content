@@ -66,6 +66,10 @@ Class Design  -->  Understanding Inheritance  -->  Inheriting Members  -->  Abst
 
 ---
 
+Beyond Classes  -->  Interfaces  -->  Enums  -->  Sealing Classes  -->  Encapsulating Data with Records  -->  Nested Classes  -->  Polymorphism
+
+---
+
 ## ✍️ Author
 
 **Kleber Vales**  
