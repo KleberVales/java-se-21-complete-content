@@ -51,10 +51,12 @@ All content is organized by topic in the repository's Wiki.
 
 **Kleber Vales**  
 
-*Back-end Software Engineer*  
+*Software Engineer*  
 Java | Spring Framework | Cloud & DevOps | Git & GitHub | Scrum | JUnit 5 | Hibernate  
 
-🏆**OCA: Java SE 7 Programmer** 🏆**MTA: Software Development** 🏆**Scrum Certified** 🏆**OCI: DevOps Professional**
+🏆**OCA: Java SE 7 Programmer** 🏆**MTA: Software Development** 🏆**Scrum Certified**
+
+🏆**OCI 2025: DevOps Professional**  🏆**OCI 2025: Generative AI Professional**
 
 Bachelor's Degree in Computer Science\
 MBA in Web Software Development
