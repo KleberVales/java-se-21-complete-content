@@ -7,7 +7,7 @@
 | 01 | [Building Blocks](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/01.-Building-Blocks) |
 | 02 | [Operators](https://github.com/KleberVales/oracle-certified-professional-java-SE-21-developer/wiki/02.-Operators) |
 | 03 | [Decision Structures](https://github.com/KleberVales/java-se-21-complete-content/wiki/03.-Making-Decisions) |
-| 04 | [Methods]() |
+| 04 | [Methods](https://github.com/KleberVales/java-se-21-complete-content/wiki/05.-Methods) |
 
 ---
 
