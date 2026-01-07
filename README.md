@@ -25,7 +25,7 @@
 
 | Nº | Pages |
 |----|--------|
-| 12 | [Basic APIs]() |
+| 12 | [Basic APIs](https://github.com/KleberVales/java-se-21-complete-content/wiki/04.-Core-APIs) |
 | 13 | [Collections and Generics]() |
 | 14 | [Streams]() |
 | 15 | [Exceptions and Localization]() |
