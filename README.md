@@ -16,8 +16,8 @@
 | Nº | Pages |
 |----|--------|
 | 05 | [Class Modeling](https://github.com/KleberVales/java-se-21-complete-content/wiki/06.-Class-Design) |
-| 05 | [Beyond Classes](https://github.com/KleberVales/java-se-21-complete-content/wiki/07.-Beyond-Classes) |
-| 06 | [Lambda and Functional Interfaces](https://github.com/KleberVales/java-se-21-complete-content/wiki/08.-Lambdas-and-Functional-Interfaces) |
+| 06 | [Beyond Classes](https://github.com/KleberVales/java-se-21-complete-content/wiki/07.-Beyond-Classes) |
+| 07 | [Lambda and Functional Interfaces](https://github.com/KleberVales/java-se-21-complete-content/wiki/08.-Lambdas-and-Functional-Interfaces) |
 
 ---
 
@@ -25,12 +25,12 @@
 
 | Nº | Pages |
 |----|--------|
-| 07 | [Basic APIs](https://github.com/KleberVales/java-se-21-complete-content/wiki/04.-Core-APIs) |
-| 08 | [Collections](https://github.com/KleberVales/java-se-21-complete-content/wiki/09.-Collections-and-Generics) |
-| 09 | [Generics](https://github.com/KleberVales/java-se-21-complete-content/wiki/09.-Collections-and-Generics) |
-| 10 | [Streams](https://github.com/KleberVales/java-se-21-complete-content/wiki/10.-Streams) |
-| 11 | [Exceptions](https://github.com/KleberVales/java-se-21-complete-content/wiki/11.-Exceptions-and-Localization) |
-| 12 | [Localization](https://github.com/KleberVales/java-se-21-complete-content/wiki/11.-Exceptions-and-Localization) |
+| 08 | [Basic APIs](https://github.com/KleberVales/java-se-21-complete-content/wiki/04.-Core-APIs) |
+| 09 | [Collections](https://github.com/KleberVales/java-se-21-complete-content/wiki/09.-Collections-and-Generics) |
+| 10 | [Generics](https://github.com/KleberVales/java-se-21-complete-content/wiki/09.-Collections-and-Generics) |
+| 11 | [Streams](https://github.com/KleberVales/java-se-21-complete-content/wiki/10.-Streams) |
+| 12 | [Exceptions](https://github.com/KleberVales/java-se-21-complete-content/wiki/11.-Exceptions-and-Localization) |
+| 13 | [Localization](https://github.com/KleberVales/java-se-21-complete-content/wiki/11.-Exceptions-and-Localization) |
 
 --- 
 
@@ -38,9 +38,9 @@
 
 | Nº | Pages |
 |----|--------|
-| 11 | [Modules](https://github.com/KleberVales/java-se-21-complete-content/wiki/12.-Modules) |
-| 12 | [Concurrency](https://github.com/KleberVales/java-se-21-complete-content/wiki/13.-Concurrency) |
-| 13 | [Input and Output](https://github.com/KleberVales/java-se-21-complete-content/wiki/14.-I-O) |
+| 14 | [Modules](https://github.com/KleberVales/java-se-21-complete-content/wiki/12.-Modules) |
+| 15 | [Concurrency](https://github.com/KleberVales/java-se-21-complete-content/wiki/13.-Concurrency) |
+| 16 | [Input and Output](https://github.com/KleberVales/java-se-21-complete-content/wiki/14.-I-O) |
 
 ---
 
