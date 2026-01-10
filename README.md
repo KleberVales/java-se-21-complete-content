@@ -28,7 +28,7 @@
 | 07 | [Basic APIs](https://github.com/KleberVales/java-se-21-complete-content/wiki/04.-Core-APIs) |
 | 08 | [Collections and Generics](https://github.com/KleberVales/java-se-21-complete-content/wiki/09.-Collections-and-Generics) |
 | 09 | [Streams](https://github.com/KleberVales/java-se-21-complete-content/wiki/10.-Streams) |
-| 10 | [Exceptions and Localization]() |
+| 10 | [Exceptions and Localization](https://github.com/KleberVales/java-se-21-complete-content/wiki/11.-Exceptions-and-Localization) |
 
 --- 
 
