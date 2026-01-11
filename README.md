@@ -25,12 +25,15 @@
 
 | Nº | Pages |
 |----|--------|
-| 08 | [Basic APIs](https://github.com/KleberVales/java-se-21-complete-content/wiki/04.-Core-APIs) |
-| 09 | [Collections](https://github.com/KleberVales/java-se-21-complete-content/wiki/09.-Collections) |
-| 10 | [Generics](https://github.com/KleberVales/java-se-21-complete-content/wiki/10.-Generics) |
-| 11 | [Streams](https://github.com/KleberVales/java-se-21-complete-content/wiki/11.-Streams) |
-| 12 | [Exceptions](https://github.com/KleberVales/java-se-21-complete-content/wiki/12.-Exceptions) |
-| 13 | [Localization](https://github.com/KleberVales/java-se-21-complete-content/wiki/13.-Localization) |
+| 08 | [Strings and StringBuilder](https://github.com/KleberVales/java-se-21-complete-content/wiki/04.-Core-APIs) |
+| 09 | [Arrays](https://github.com/KleberVales/java-se-21-complete-content/wiki/04.-Core-APIs) |
+| 10 | [Math APIs](https://github.com/KleberVales/java-se-21-complete-content/wiki/04.-Core-APIs) |
+| 11 | [Dates and Times](https://github.com/KleberVales/java-se-21-complete-content/wiki/04.-Core-APIs) |
+| 12 | [Collections](https://github.com/KleberVales/java-se-21-complete-content/wiki/09.-Collections) |
+| 13 | [Generics](https://github.com/KleberVales/java-se-21-complete-content/wiki/10.-Generics) |
+| 14 | [Streams](https://github.com/KleberVales/java-se-21-complete-content/wiki/11.-Streams) |
+| 15 | [Exceptions](https://github.com/KleberVales/java-se-21-complete-content/wiki/12.-Exceptions) |
+| 16 | [Localization](https://github.com/KleberVales/java-se-21-complete-content/wiki/13.-Localization) |
 
 --- 
 
@@ -38,9 +41,9 @@
 
 | Nº | Pages |
 |----|--------|
-| 14 | [Modules](https://github.com/KleberVales/java-se-21-complete-content/wiki/12.-Modules) |
-| 15 | [Concurrency](https://github.com/KleberVales/java-se-21-complete-content/wiki/13.-Concurrency) |
-| 16 | [Input and Output](https://github.com/KleberVales/java-se-21-complete-content/wiki/14.-I-O) |
+| 17 | [Modules](https://github.com/KleberVales/java-se-21-complete-content/wiki/12.-Modules) |
+| 18 | [Concurrency](https://github.com/KleberVales/java-se-21-complete-content/wiki/13.-Concurrency) |
+| 19 | [Input and Output](https://github.com/KleberVales/java-se-21-complete-content/wiki/14.-I-O) |
 
 ---
 
