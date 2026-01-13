@@ -27,13 +27,28 @@
 |----|--------|
 | 08 | [Strings and StringBuilder](https://github.com/KleberVales/java-se-21-complete-content/wiki/04.-Strings-and-StringBuilder) |
 | 09 | [Arrays](https://github.com/KleberVales/java-se-21-complete-content/wiki/05.-Arrays) |
-| 10 | [Math APIs](https://github.com/KleberVales/java-se-21-complete-content/wiki/06.-Math-APIs) |
+
+| Nº | Pages |
+|----|--------|
 | 11 | [Dates and Times](https://github.com/KleberVales/java-se-21-complete-content/wiki/07.-Dates-and-Times) |
-| 12 | [Collections](https://github.com/KleberVales/java-se-21-complete-content/wiki/12.-Collections) |
-| 13 | [Generics](https://github.com/KleberVales/java-se-21-complete-content/wiki/13.-Generics) |
-| 14 | [Streams](https://github.com/KleberVales/java-se-21-complete-content/wiki/14.-Streams) |
-| 15 | [Exceptions](https://github.com/KleberVales/java-se-21-complete-content/wiki/15.-Exceptions) |
 | 16 | [Localization](https://github.com/KleberVales/java-se-21-complete-content/wiki/16.-Localization) |
+
+| Nº | Pages |
+|----|--------|
+| 12 | [Collections](https://github.com/KleberVales/java-se-21-complete-content/wiki/12.-Collections) |
+| 14 | [Streams](https://github.com/KleberVales/java-se-21-complete-content/wiki/14.-Streams) |
+
+| Nº | Pages |
+|----|--------|
+| 13 | [Generics](https://github.com/KleberVales/java-se-21-complete-content/wiki/13.-Generics) |
+
+| Nº | Pages |
+|----|--------|
+| 15 | [Exceptions](https://github.com/KleberVales/java-se-21-complete-content/wiki/15.-Exceptions) |
+
+| Nº | Pages |
+|----|--------|
+| 10 | [Math APIs](https://github.com/KleberVales/java-se-21-complete-content/wiki/06.-Math-APIs) |
 
 --- 
 
