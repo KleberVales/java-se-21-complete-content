@@ -30,6 +30,10 @@
 
 | Nº | Pages |
 |----|--------|
+| 10 | [Math APIs](https://github.com/KleberVales/java-se-21-complete-content/wiki/06.-Math-APIs) |
+
+| Nº | Pages |
+|----|--------|
 | 11 | [Dates and Times](https://github.com/KleberVales/java-se-21-complete-content/wiki/07.-Dates-and-Times) |
 | 16 | [Localization](https://github.com/KleberVales/java-se-21-complete-content/wiki/16.-Localization) |
 
@@ -45,10 +49,6 @@
 | Nº | Pages |
 |----|--------|
 | 15 | [Exceptions](https://github.com/KleberVales/java-se-21-complete-content/wiki/15.-Exceptions) |
-
-| Nº | Pages |
-|----|--------|
-| 10 | [Math APIs](https://github.com/KleberVales/java-se-21-complete-content/wiki/06.-Math-APIs) |
 
 --- 
 
