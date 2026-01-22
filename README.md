@@ -15,7 +15,7 @@
 
 | Nº | Pages |
 |----|--------|
-| 05 | [Class Modeling](https://github.com/KleberVales/java-se-21-complete-content/wiki/06.-Class-Design) |
+| 05 | [Class Modeling](https://github.com/KleberVales/java-se-21-complete-content/wiki/09.-Class-Design) |
 | 06 | [Beyond Classes](https://github.com/KleberVales/java-se-21-complete-content/wiki/07.-Beyond-Classes) |
 | 07 | [Lambda and Functional Interfaces](https://github.com/KleberVales/java-se-21-complete-content/wiki/08.-Lambdas-and-Functional-Interfaces) |
 
