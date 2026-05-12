@@ -75,7 +75,6 @@ Cloud | DevOps | Git/Github | Docker | Kubernetes | Scrum | Generative AI | Even
 
 🎓 **Bachelor's Degree in Computer Science** | 🎓 **MBA in Web Software Development**
 
-🏆 **Oracle Certified Associate – Java SE 7 Programmer**  
 
 
 
