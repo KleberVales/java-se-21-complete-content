@@ -54,5 +54,5 @@
 
 ## Advanced Topics
 
-| Nº | Pages |
+| Nº | 
 
