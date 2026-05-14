@@ -57,8 +57,7 @@
 | Nº | Pages |
 |----|--------|
 | 17 | [Modules](https://github.com/KleberVales/java-se-21-complete-content/wiki/17.-Modules) |
-| 18 | [Concurrency](https://github.com/KleberVales/java-se-21
-
+| 18 | [Concurrency](https://github.com/KleberVales
 
 
 
