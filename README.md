@@ -56,7 +56,6 @@
 
 | Nº | Pages |
 |----|--------|
-| 17 | [Modules](https://github.com/KleberVales/java-se-21-complete-content
-
+| 17 | [Modules](https://github.com/KleberVales/java-se-21-complete
 
 
