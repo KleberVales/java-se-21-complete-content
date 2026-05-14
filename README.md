@@ -51,7 +51,3 @@
 | 15 | [Exceptions](https://github.com/KleberVales/java-se-21-complete-content/wiki/15.-Exceptions) |
 
 --- 
-
-## Advanced 
-
-
