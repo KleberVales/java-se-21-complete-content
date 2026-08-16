@@ -1,6 +1,6 @@
 # oracle-certified-professional-java-SE-21-developer
 
-## Language Fundamentals
+## 1. Language Fundamentals
 
 | Nº | Pages |
 |----|--------|
